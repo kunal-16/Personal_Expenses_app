@@ -1,16 +1,13 @@
 # expenses
 
-A new Flutter project.
+Manage your day to day expenses with this dynamically built flutter application.It keeps a track of where did you actually spend money, wht percentage of your money you spent each day and many more features!
 
-## Getting Started
+## Screen Shots
 
-This project is a starting point for a Flutter application.
+<img src="assets/ScreenShots/initial.jpg">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="assets/ScreenShots/addtrx.jpg">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="assets/ScreenShots/landscape_chart.jpg">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/ScreenShots/landscape_list.jpg">
